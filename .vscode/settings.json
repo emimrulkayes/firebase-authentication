@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "liveSassCompile.settings.formats": [
+    
+
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/src/assets/css"
+        }
+    ],
+    "bracketPairColorizer.depreciation-notice": false,
+}

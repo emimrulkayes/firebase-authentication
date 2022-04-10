@@ -1,0 +1,41 @@
+
+/**Header Styles  */
+.navbar {
+    .site-logo {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .nav-menu {
+        a {
+            font-size: 1.6rem;
+            font-weight: 500;
+            margin-right: 2rem;
+            color: black;
+            text-decoration: none;
+        }
+    }
+    .nav-right {
+        a {
+            padding: 0;
+            margin-left: 15px;
+        }
+        .nav-btn {
+            font-size: 1.5rem;
+            background: black;
+            color: #FFF;
+            font-weight: 500;
+            padding: 0.3rem 2rem;
+            border-radius: 0.3rem;
+            outline: none;
+            box-shadow: none;
+            transition: all 0.3s ease-in-out;
+            &:focus {
+                box-shadow: none;
+                outline: none;
+            }
+            &:hover {
+                color: aqua;
+            }
+        }
+    }
+}

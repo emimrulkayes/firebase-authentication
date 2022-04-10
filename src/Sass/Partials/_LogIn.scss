@@ -1,0 +1,19 @@
+
+/** LogIn Form Style */
+form.logIn-form {
+    max-width: 50rem;
+    font-size: 1.6rem;
+    margin: 0 auto;
+    .form-label {
+        font-size: 1.6rem;
+    }
+    .form-control {
+        font-size: 1.5rem;
+    }
+
+    .submit-btn {
+        font-size: 1.5rem;
+        padding: 0.5rem 2rem;
+    }
+
+}

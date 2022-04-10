@@ -1,0 +1,19 @@
+@import "./Partials/Home";
+@import "./Partials/Header";
+@import "./Partials/About";
+@import "./Partials/Blog";
+@import "./Partials/Contact";
+@import "./Partials/LogIn";
+@import "./Partials/Classes";
+@import "./Partials/Variables";
+
+/** Default styles  */
+body {
+    box-sizing: border-box;
+    font-size: 1.4rem;
+}
+
+html {
+    font-size: 62.5%;
+    height: 100%;
+}
